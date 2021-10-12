@@ -1,0 +1,14 @@
+body{
+background-color:red;
+    text-align: center;
+}
+div{
+    background-color: rgb(32, 8, 245);
+   BORDER:20px ;
+  border-radius: 20px ;
+   border-style: groove;
+   width: 320Px;
+   height: 400px;
+   margin-left: 500px;
+   border-color: chartreuse;
+}
